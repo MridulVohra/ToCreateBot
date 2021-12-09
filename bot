@@ -1,0 +1,433 @@
+<!DOCTYPE html>
+<html class="no-js displaymode-full" itemscope itemtype="http://schema.org/Blog" lang="en-US">
+	<head prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article#" >
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>Be Careful that Bot Doesn’t Come Back to Bite You &mdash; Internet &amp; Social Media Law Blog &mdash; June 25, 2019</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+		<link rel="stylesheet" type="text/css" media="all" href="/jresources/v/20210616033332/css/main.css" />
+
+
+		<script type="text/javascript">
+			document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/,"js");
+		</script>
+
+		<meta name="referrer" content="origin" />
+		<meta name="referrer" content="unsafe-url" />
+
+		<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v16.2 - https://yoast.com/wordpress/plugins/seo/ -->
+	<meta name="description" content="Much like humans, bots come in all shapes and sizes. In social media networks, these bots can like what you post and even increase your followers. &mdash; June 25, 2019" />
+	<link rel="canonical" href="https://www.internetandtechnologylaw.com/chat-bot-legal-issues/" />
+	<meta name="twitter:label1" content="Written by">
+	<meta name="twitter:data1" content="Ashlee Hamilton">
+	<meta name="twitter:label2" content="Est. reading time">
+	<meta name="twitter:data2" content="5 minutes">
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Internet &amp; Social Media Law Blog &raquo; Feed" href="https://www.internetandtechnologylaw.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Internet &amp; Social Media Law Blog &raquo; Comments Feed" href="https://www.internetandtechnologylaw.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.internetandtechnologylaw.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=e51ad18d30a9048cae906d606287d77f"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://www.internetandtechnologylaw.com/wp-includes/css/dist/block-library/style.min.css?ver=e51ad18d30a9048cae906d606287d77f' type='text/css' media='all' />
+<style id='wp-block-library-inline-css' type='text/css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel='stylesheet' id='events-manager-css'  href='https://www.internetandtechnologylaw.com/wp-content/plugins/events-manager/includes/css/events_manager.css?ver=5.9942' type='text/css' media='all' />
+<link rel='stylesheet' id='social-logos-css'  href='https://www.internetandtechnologylaw.com/wp-content/plugins/jetpack/_inc/social-logos/social-logos.min.css?ver=9.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='https://www.internetandtechnologylaw.com/wp-content/plugins/jetpack/css/jetpack.css?ver=9.6.1' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.internetandtechnologylaw.com/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://www.internetandtechnologylaw.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://www.internetandtechnologylaw.com/wp-includes/js/jquery/ui/core.min.js?ver=1.12.1' id='jquery-ui-core-js'></script>
+<script type='text/javascript' src='https://www.internetandtechnologylaw.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.12.1' id='jquery-ui-mouse-js'></script>
+<script type='text/javascript' src='https://www.internetandtechnologylaw.com/wp-includes/js/jquery/ui/sortable.min.js?ver=1.12.1' id='jquery-ui-sortable-js'></script>
+<script type='text/javascript' src='https://www.internetandtechnologylaw.com/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.12.1' id='jquery-ui-datepicker-js'></script>
+<script type='text/javascript' id='jquery-ui-datepicker-js-after'>
+jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
+</script>
+<script type='text/javascript' src='https://www.internetandtechnologylaw.com/wp-includes/js/jquery/ui/menu.min.js?ver=1.12.1' id='jquery-ui-menu-js'></script>
+<script type='text/javascript' src='https://www.internetandtechnologylaw.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=7.4.4' id='wp-polyfill-js'></script>
+<script type='text/javascript' id='wp-polyfill-js-after'>
+( 'fetch' in window ) || document.write( '<script src="https://www.internetandtechnologylaw.com/wp-includes/js/dist/vendor/wp-polyfill-fetch.min.js?ver=3.0.0"></scr' + 'ipt>' );( document.contains ) || document.write( '<script src="https://www.internetandtechnologylaw.com/wp-includes/js/dist/vendor/wp-polyfill-node-contains.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.DOMRect ) || document.write( '<script src="https://www.internetandtechnologylaw.com/wp-includes/js/dist/vendor/wp-polyfill-dom-rect.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.URL && window.URL.prototype && window.URLSearchParams ) || document.write( '<script src="https://www.internetandtechnologylaw.com/wp-includes/js/dist/vendor/wp-polyfill-url.min.js?ver=3.6.4"></scr' + 'ipt>' );( window.FormData && window.FormData.prototype.keys ) || document.write( '<script src="https://www.internetandtechnologylaw.com/wp-includes/js/dist/vendor/wp-polyfill-formdata.min.js?ver=3.0.12"></scr' + 'ipt>' );( Element.prototype.matches && Element.prototype.closest ) || document.write( '<script src="https://www.internetandtechnologylaw.com/wp-includes/js/dist/vendor/wp-polyfill-element-closest.min.js?ver=2.0.2"></scr' + 'ipt>' );( 'objectFit' in document.documentElement.style ) || document.write( '<script src="https://www.internetandtechnologylaw.com/wp-includes/js/dist/vendor/wp-polyfill-object-fit.min.js?ver=2.3.4"></scr' + 'ipt>' );
+</script>
+<script type='text/javascript' src='https://www.internetandtechnologylaw.com/wp-includes/js/dist/dom-ready.min.js?ver=eb19f7980f0268577acb5c2da5457de3' id='wp-dom-ready-js'></script>
+<script type='text/javascript' src='https://www.internetandtechnologylaw.com/wp-includes/js/dist/hooks.min.js?ver=50e23bed88bcb9e6e14023e9961698c1' id='wp-hooks-js'></script>
+<script type='text/javascript' src='https://www.internetandtechnologylaw.com/wp-includes/js/dist/i18n.min.js?ver=db9a9a37da262883343e941c3731bc67' id='wp-i18n-js'></script>
+<script type='text/javascript' id='wp-i18n-js-after'>
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script type='text/javascript' id='wp-a11y-js-translations'>
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", { "locale_data": { "messages": { "": {} } } } );
+</script>
+<script type='text/javascript' src='https://www.internetandtechnologylaw.com/wp-includes/js/dist/a11y.min.js?ver=5e00de7a43b31bbb9eaf685f089a3903' id='wp-a11y-js'></script>
+<script type='text/javascript' id='jquery-ui-autocomplete-js-extra'>
+/* <![CDATA[ */
+var uiAutocompleteL10n = {"noResults":"No results found.","oneResult":"1 result found. Use up and down arrow keys to navigate.","manyResults":"%d results found. Use up and down arrow keys to navigate.","itemSelected":"Item selected."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.internetandtechnologylaw.com/wp-includes/js/jquery/ui/autocomplete.min.js?ver=1.12.1' id='jquery-ui-autocomplete-js'></script>
+<script type='text/javascript' src='https://www.internetandtechnologylaw.com/wp-includes/js/jquery/ui/resizable.min.js?ver=1.12.1' id='jquery-ui-resizable-js'></script>
+<script type='text/javascript' src='https://www.internetandtechnologylaw.com/wp-includes/js/jquery/ui/draggable.min.js?ver=1.12.1' id='jquery-ui-draggable-js'></script>
+<script type='text/javascript' src='https://www.internetandtechnologylaw.com/wp-includes/js/jquery/ui/controlgroup.min.js?ver=1.12.1' id='jquery-ui-controlgroup-js'></script>
+<script type='text/javascript' src='https://www.internetandtechnologylaw.com/wp-includes/js/jquery/ui/checkboxradio.min.js?ver=1.12.1' id='jquery-ui-checkboxradio-js'></script>
+<script type='text/javascript' src='https://www.internetandtechnologylaw.com/wp-includes/js/jquery/ui/button.min.js?ver=1.12.1' id='jquery-ui-button-js'></script>
+<script type='text/javascript' src='https://www.internetandtechnologylaw.com/wp-includes/js/jquery/ui/dialog.min.js?ver=1.12.1' id='jquery-ui-dialog-js'></script>
+<script type='text/javascript' id='events-manager-js-extra'>
+/* <![CDATA[ */
+var EM = {"ajaxurl":"https:\/\/www.internetandtechnologylaw.com\/wp-admin\/admin-ajax.php","locationajaxurl":"https:\/\/www.internetandtechnologylaw.com\/wp-admin\/admin-ajax.php?action=locations_search","firstDay":"1","locale":"en","dateFormat":"mm\/dd\/yy","ui_css":"https:\/\/www.internetandtechnologylaw.com\/wp-content\/plugins\/events-manager\/includes\/css\/jquery-ui.min.css","show24hours":"0","is_ssl":"1","google_maps_api":"AIzaSyCIu9Q77cdq7oxcbIIYdCbZ_EsC5d0Kv2Q","bookingInProgress":"Please wait while the booking is being submitted.","tickets_save":"Save Ticket","bookingajaxurl":"https:\/\/www.internetandtechnologylaw.com\/wp-admin\/admin-ajax.php","bookings_export_save":"Export Bookings","bookings_settings_save":"Save Settings","booking_delete":"Are you sure you want to delete?","booking_offset":"30","bb_full":"Sold Out","bb_book":"Book Now","bb_booking":"Booking...","bb_booked":"Booking Submitted","bb_error":"Booking Error. Try again?","bb_cancel":"Cancel","bb_canceling":"Canceling...","bb_cancelled":"Cancelled","bb_cancel_error":"Cancellation Error. Try again?","txt_search":"Search","txt_searching":"Searching...","txt_loading":"Loading..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.internetandtechnologylaw.com/wp-content/plugins/events-manager/includes/js/events-manager.js?ver=5.9942' id='events-manager-js'></script>
+<script type='text/javascript' src='https://www.internetandtechnologylaw.com/jresources/v/20210616033332/js/customTopnav.min.js' id='willow_customTopnav.min-js'></script>
+<link rel="https://api.w.org/" href="https://www.internetandtechnologylaw.com/wp-json/" /><link rel="alternate" type="application/json" href="https://www.internetandtechnologylaw.com/wp-json/wp/v2/posts/4559" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.internetandtechnologylaw.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.internetandtechnologylaw.com/wp-includes/wlwmanifest.xml" /> 
+
+<link rel='shortlink' href='https://wp.me/p7CIc9-1bx' />
+<link rel="alternate" type="application/json+oembed" href="https://www.internetandtechnologylaw.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.internetandtechnologylaw.com%2Fchat-bot-legal-issues%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.internetandtechnologylaw.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.internetandtechnologylaw.com%2Fchat-bot-legal-issues%2F&#038;format=xml" />
+<link rel="amphtml" href="https://www.internetandtechnologylaw.com/amp/chat-bot-legal-issues/" />
+		<!-- Willow Authorship Tags -->
+<link href="https://www.pillsburylaw.com/" rel="publisher" />
+<link href="https://www.pillsburylaw.com/en/lawyers/ashlee-hamilton.html" rel="author" />
+
+<!-- End Willow Authorship Tags -->		<!-- Willow Opengraph and Twitter Cards -->
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://wp.me/p7CIc9-1bx" />
+<meta name="twitter:title" content="Be Careful that Bot Doesn’t Come Back to Bite You" />
+<meta name="twitter:description" content="Much like humans, bots come in all shapes and sizes. In social media networks, these bots can like what you post and even increase your followers. Companies use bots for all types of things—from ..." />
+<meta name="twitter:image" content="https://www.internetandtechnologylaw.com/files/2019/06/iStock-872962368-chat-bots-883x1000.jpg" />
+<meta property="article:published_time" content="2019-06-25T08:26:39-04:00" />
+<meta property="article:modified_time" content="2019-06-19T18:43:32-04:00" />
+<meta property="article:section" content="Internet of Things (IoT)" />
+<meta property="article:author" content="https://www.internetandtechnologylaw.com/author/ashleehamilton/" />
+<meta property="og:url" content="https://www.internetandtechnologylaw.com/chat-bot-legal-issues/" />
+<meta property="og:title" content="Be Careful that Bot Doesn’t Come Back to Bite You" />
+<meta property="og:description" content="Much like humans, bots come in all shapes and sizes. In social media networks, these bots can like what you post and even increase your followers. Companies use bots for all types of things—from ..." />
+<meta property="og:type" content="article" />
+<meta property="og:image" content="https://www.internetandtechnologylaw.com/files/2019/06/iStock-872962368-chat-bots-883x1000.jpg" />
+<meta property="og:image:width" content="962" />
+<meta property="og:image:height" content="1090" />
+<meta property="og:image:url" content="https://www.internetandtechnologylaw.com/files/2019/06/iStock-872962368-chat-bots-883x1000.jpg" />
+<meta property="og:image:secure_url" content="https://www.internetandtechnologylaw.com/files/2019/06/iStock-872962368-chat-bots-883x1000.jpg" />
+<meta property="og:site_name" content="Internet &amp; Social Media Law Blog" />
+
+<!-- End Willow Opengraph and Twitter Cards -->
+
+				<link rel="shortcut icon" type="image/x-icon" href="/jresources/v/20210616033332/icons/favicon.ico"  />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-12083746-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'UA-12083746-1');
+    </script>
+<!-- End Global site tag (gtag.js) - Google Analytics -->
+
+<script>!function(r){var i=document.createElement("img");i.setAttribute("src","//pillsburylaw.vuturevx.com/security/tracker.gif?referer="+encodeURIComponent(r))}(document.referrer);</script>
+<script type='text/javascript' src='/jresources/js/customTopnav.min.js' id='responsive_topnav-js'></script><link rel="next" href="https://www.internetandtechnologylaw.com/biggest-legal-issues-blockchain-technology-providers/" />
+<link rel="prev" href="https://www.internetandtechnologylaw.com/uk-privacy-adtech/" />
+<!-- GDPR cookie - Main JS -->
+<script src="https://cc.cdn.civiccomputing.com/9/cookieControl-9.x.min.js" type="text/javascript"></script>
+
+	<script async defer src="https://justatic.com/e/widgets/js/justia.js"></script>
+
+	</head>
+	<body class="willow willow-responsive post-template-default single single-post postid-4559 single-format-standard">
+	
+
+<div id="fb-root"></div>
+
+		<div class="container">
+			<div class="cwrap">
+
+			<!-- HEADER -->
+			<header id="header" role="banner">
+							<div id="head" class="header-tag-group">
+
+					<div id="logo">
+						<a href="https://www.internetandtechnologylaw.com/">							<img src="/jresources/v/20210616033332/images/logo.png" id="mainlogo" alt="Pillsbury Winthrop Shaw Pittman LLP" />
+							Internet &amp; Social Media Law Blog</a>
+					</div>
+										<div id="tagline"><a  target="_blank" href="https://www.pillsburylaw.com/" class="tagline-link tagline-text">Published By Pillsbury Winthrop Shaw Pittman LLP</a></div>
+									</div><!--/#head-->
+				<nav id="main-nav" role="navigation">
+					<span class="visuallyhidden">Navigation</span>
+					<div id="topnav" class="topnav nav-custom"><ul id="tnav-toplevel" class="menu"><li id="menu-item-23" class="priority_1 menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-23"><a href="https://www.internetandtechnologylaw.com/">Home</a></li>
+<li id="menu-item-26" class="priority_1 menu-item menu-item-type-custom menu-item-object-custom menu-item-26"><a target="_blank" rel="noopener" href="https://www.pillsburylaw.com/en/services/sectors/internet-and-social-media.html">Services</a></li>
+<li id="menu-item-29" class="priority_3 menu-item menu-item-type-custom menu-item-object-custom menu-item-29"><a target="_blank" rel="noopener" href="https://www.pillsburylaw.com/en/lawyers/services/sectors/internet-and-social-media">Internet &#038; Social Media Team</a></li>
+</ul></div>				</nav>
+				<div class="hfrags"> 
+	<div class="header-lupe">
+</div> 
+<div id="header-search" class="widget"> 
+	<div class="widget-content"> 
+	<form action="/" class="searchform" id="searchformTopnav" method="get" role="search"> 
+	<div> 
+	<span class="fld"> 
+	<label class="visuallyhidden" for="sTopnav">Search here</label>
+	<input type="text" id="sTopnav" name="s" value="" placeholder="Enter Text"> 
+</span> 
+<span class="submit"> 
+	<button type="submit" value="Search" id="searchsubmitTopnav">Search
+</button> 
+</span> 
+</div> 
+</form> 
+</div> 
+</div> 
+</div>			</header>
+
+			            
+
+            <!-- MAIN -->
+            <div id="main">
+	            <div class="custom_html_content_top"><div class="imgwrap"> <div id="img1"> <a href="/"> <div class="banner-wrapper"> <div class="banner banner-01"> <div class="slide slide-01"> <picture> <source type='image/webp' media='(max-width: 399px)' srcset='/jresources/images/slides/01/320.webp 320w, /jresources/images/slides/01/400.webp 400w'> <source type='image/webp' media='(min-width: 400px)' srcset='/jresources/images/slides/01/975.webp 975w, /jresources/images/slides/01/1300.webp 1300w'> <source media='(max-width: 399px)' srcset='/jresources/images/slides/01/320.jpg 320w, /jresources/images/slides/01/400.jpg 400w'> <source media='(min-width: 400px)' srcset='/jresources/images/slides/01/975.jpg 975w, /jresources/images/slides/01/1300.jpg 1300w'> <img src='/jresources/images/slides/01/1300.jpg' alt='Internet & Social Media Law Blog'> </picture> </div> </div> </div> </a> </div> </div></div>                <div class="mwrap">
+                	
+                	
+	                <section class="content">
+	                		                	<div class="bodytext">
+		                	
+
+<article id="post-4559" class="entry post-4559 post type-post status-publish format-standard has-post-thumbnail hentry category-algorithms category-artificial-intelligence category-child-protection category-defamation category-internet-of-things category-privacy tag-alexis tag-bots tag-chatbots" itemprop="blogPost" itemtype="http://schema.org/BlogPosting" itemscope>
+	<link itemprop="mainEntityOfPage" href="https://www.internetandtechnologylaw.com/chat-bot-legal-issues/" />
+	<div class="inner-wrapper">
+		<header>
+
+			
+			
+						<div id="featured-image-4563-post-id-4559" itemprop="image" itemtype="http://schema.org/ImageObject" itemscope>
+	<link itemprop="url" href="https://www.internetandtechnologylaw.com/files/2019/06/iStock-872962368-chat-bots.jpg" />
+	<meta itemprop="width" content="962" />
+	<meta itemprop="height" content="1090" />
+	<meta itemprop="representativeOfPage" content="http://schema.org/True" />
+</div>
+			<div class="published-date"><span class="published-date-label">Posted</span> <time datetime="2019-06-25T08:26:39-04:00" class="post-date published" itemprop="datePublished" pubdate>June 25, 2019</time></div>
+			
+			
+            <h1 class="entry-title" itemprop="name">Be Careful that Bot Doesn’t Come Back to Bite You</h1>
+                <meta itemprop="headline" content="Be Careful that Bot Doesn’t Come Back to Bite You" />
+			
+			
+			<div class="author vcard">by <span itemprop="author" itemtype="http://schema.org/Person" itemscope><a href="https://www.pillsburylaw.com/en/lawyers/ashlee-hamilton.html" class="url fn author-ashleehamilton author-2771 post-author-link" rel="author" target="_blank" itemprop="url"><span itemprop="name">Ashlee Hamilton</span></a></span></div>
+			
+			<div class="sharelinks sharelinks-4559 sharelinks-horizontal" id="sharelinks-4559">
+	<a href="http://api.addthis.com/oexchange/0.8/offer?url=https%3A%2F%2Fwww.internetandtechnologylaw.com%2Fchat-bot-legal-issues%2F&amp;title=Be+Careful+that+Bot+Doesn%E2%80%99t+Come+Back+to+Bite+You" target="_blank" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.internetandtechnologylaw.com/wp-content/themes/Willow-Responsive/images/share/share.gif" alt="Share this Post" /></a>
+	<a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwp.me%2Fp7CIc9-1bx&amp;text=Be+Careful+that+Bot+Doesn%E2%80%99t+Come+Back+to+Bite+You" target="_blank"  onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.internetandtechnologylaw.com/wp-content/themes/Willow-Responsive/images/share/twitter.gif" alt="Tweet this Post" /></a>
+	<a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.internetandtechnologylaw.com%2Fchat-bot-legal-issues%2F" target="_blank"  onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.internetandtechnologylaw.com/wp-content/themes/Willow-Responsive/images/share/fb.gif" alt="Share on Facebook" /></a>
+	<a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.internetandtechnologylaw.com%2Fchat-bot-legal-issues%2F&amp;title=Be+Careful+that+Bot+Doesn%E2%80%99t+Come+Back+to+Bite+You&amp;source=Internet+%26amp%3B+Social+Media+Law+Blog" target="_blank"  onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.internetandtechnologylaw.com/wp-content/themes/Willow-Responsive/images/share/linkedin.gif" alt="Share on LinkedIn" /></a>
+</div>					</header>
+		<div class="content" itemprop="articleBody">
+			<div class="shortbio-container shortbio-container-photo"><div class="authorphoto">
+	<div class="author-image"><a href="https://www.pillsburylaw.com/en/lawyers/ashlee-hamilton.html" rel="author" title="Ashlee Hamilton"><img src="https://5ec62b51a4f230766853-b4f109098d2c7d70af14c3171bd45e86.ssl.cf2.rackcdn.com/production/HamiltonAshlee.jpg" alt="Ashlee Hamilton" title="Ashlee Hamilton" class="avatar avatar-custom avatar-100" style="max-width: 100px;" itemprop="image" /></a></div>
+	<div class="author-name" itemprop="name"><span itemprop="author" itemtype="http://schema.org/Person" itemscope><a href="https://www.pillsburylaw.com/en/lawyers/ashlee-hamilton.html" class="url fn author-ashleehamilton author-2771 post-author-link" rel="author" target="_blank" itemprop="url"><span itemprop="name">Ashlee Hamilton</span></a></span></div>
+</div></div>						<div class="entry-content">
+								<p><a href="https://www.internetandtechnologylaw.com/files/2019/06/iStock-872962368-chat-bots.jpg"><img loading="lazy" class=" wp-image-4563 alignright" src="https://www.internetandtechnologylaw.com/files/2019/06/iStock-872962368-chat-bots-265x300.jpg" alt="iStock-872962368-chat-bots-265x300" width="166" height="188" srcset="https://www.internetandtechnologylaw.com/files/2019/06/iStock-872962368-chat-bots-265x300.jpg 265w, https://www.internetandtechnologylaw.com/files/2019/06/iStock-872962368-chat-bots-768x870.jpg 768w, https://www.internetandtechnologylaw.com/files/2019/06/iStock-872962368-chat-bots-904x1024.jpg 904w, https://www.internetandtechnologylaw.com/files/2019/06/iStock-872962368-chat-bots-883x1000.jpg 883w, https://www.internetandtechnologylaw.com/files/2019/06/iStock-872962368-chat-bots-106x120.jpg 106w, https://www.internetandtechnologylaw.com/files/2019/06/iStock-872962368-chat-bots.jpg 962w" sizes="(max-width: 166px) 100vw, 166px" /></a>Much like humans, bots come in all shapes and sizes. In social media networks, these bots can like what you post and even increase your followers. Companies use bots for all <a href="https://www.socialmediatoday.com/news/9-great-examples-of-how-brands-are-using-chatbots/524138/">types of things</a>—from booking a ride to giving makeup tutorials. Some bots can even <a href="https://medium.com/legal-design-and-innovation/the-playing-field-of-legal-chatbots-58f2843ee9f4">solve your legal problems</a>. Besides saving time and money, bots have the <a href="https://due.com/blog/chatbots-business-benefits/">potential</a> to reduce errors and increase a business’s customer base. But what happens when bots <a href="https://www.ibtimes.com/amazon-spying-users-through-alexa-thousands-employees-listen-conversations-2784772">spy on users</a> and share personal information? Or when they make <a href="http://usat.ly/1RnFqlq">racial slurs</a> and offensive comments?</p>
+<p><span id="more-4559"></span></p>
+<p>Within just one day of her launch, Microsoft’s chatbot, Tay, learned to make inappropriate and <a href="https://www.businessinsider.com/microsoft-deletes-racist-genocidal-tweets-from-ai-chatbot-tay-2016-3?r=UK&amp;IR=T">offensive comments</a> on Twitter. She went from saying that the Holocaust was made up to deciding that black people should be put in concentration camps. Designed to mimic the personality of a <a href="https://www.buzzfeednews.com/article/alexkantrowitz/microsoft-introduces-tay-an-ai-powered-chatbot-it-hopes-will#.lbLKpGJg">19-year-old</a> American girl, Tay <a href="https://www.ajc.com/technology/unsurprisingly-microsoft-bot-tay-was-tricked-into-being-racist/AZxDMsyTlio0liCwMoodhN/">learned</a> from the conversations she had with other users. Given Microsoft’s failure to teach Tay what <em>not </em>to say, not surprisingly, she adopted the offensive views of other users. Microsoft took Tay <a href="https://www.theglobeandmail.com/technology/tech-news/how-microsofts-friendly-robot-turned-into-a-racist-jerk-in-less-than-24-hours/article29379054/">offline</a> to make some “adjustments.” Although Tay is back <a href="https://twitter.com/tayandyou/">online</a>, her tweets are “protected.”</p>
+<p>Even our popular friend Alexa has journeyed to the dark side. She <a href="https://www.theguardian.com/technology/2018/dec/21/alexa-amazon-echo-kill-your-foster-parents">recommended to an Amazon customer</a>: “Kill your foster parents.” What would make her say that? Alexa—a machine-learning socialbot and personal assistant—learned that language from Reddit. A popular form of artificial intelligence, machine learning analyzes <a href="https://www.techtimes.com/articles/236682/20181222/amazons-alexa-tells-user-to-kill-foster-parents.htm">patterns of observations</a> taken from transcribed human speech. It then chooses the best response based on those patterns in its conversations. With this model, not surprisingly, Alexa has also <a href="https://www.reuters.com/article/us-amazon-com-alexa-insight/kill-your-foster-parents-amazons-alexa-talks-murder-sex-in-ai-experiment-idUSKCN1OK1AJ">chatted</a> with customers about sex acts and dog defecation. But Alexa’s blunders are not limited to criminal solicitation and unpleasantries. She has also been <a href="https://www.npr.org/sections/thetwo-way/2018/05/25/614470096/amazon-echo-recorded-and-sent-couples-conversation-all-without-their-knowledge">accused</a> of recording conversations without being prompted and sending them to strangers. Microsoft’s <a href="https://www.independent.co.uk/life-style/gadgets-and-tech/news/amazon-alexa-echo-listening-spy-security-a8865056.html">admission</a> that its employees listen to customer voice recordings hardly assuaged fears of spying bots.</p>
+<p><strong>The Defamation Bot?</strong><br />
+So bots can spy on us, but can they defame us? SimSimi, an AI conversation program created in 2002, was accused of <a href="https://www.fiercewireless.com/europe/thai-chatbot-opens-defamation-debate">defamation</a> after it insulted a former Prime Minister of Thailand. SimSimi learns from its users through fuzzy logic algorithms. Within just a few weeks, the chatbot learned Thai, including politics and profanity. After being contacted by the ICT Minister, the app’s developers withdrew Thai language support to avoid further insults. SimSimi was later <a href="https://www.thejournal.ie/simsimi-offline-ireland-3314458-Mar2017/">banned in Ireland</a> for its propensity to facilitate cyberbullying. One feature of the app allows users to associate user’s names with another phrase. For instance, one could teach SimSimi to associate the name “Bob” with the phrase “eats children.” This concerned parents whose children used the app.</p>
+<p>But who is legally responsible when rogue chatbots are accused of defamation, abuse or harassment? Or when they make <a href="https://www.fiercewireless.com/europe/thai-chatbot-opens-defamation-debate">defamatory</a> statements about a public figure? There are various humans involved at each level of a bot’s configuration. There’s the manufacturer of the artificial intelligence technology. Humans are also the webmasters hosting the server. Even the developers and those who engage with the technology are humans. Should an aggrieved plaintiff just <a href="https://blouinnews.com/96087/story/nearest-human-pays-price-algorithms-goof">sue the nearest human</a>? How about the app store that supplied the technology? The question of who is responsible for the harm caused will be one courts may frequently grapple with as bots evolve.</p>
+<p>What about when the legal claim involves a state of mind? Can a self-learning program even commit libel or slander? These claims require the speaker to know of the statement’s falsity. Do bots have knowledge?</p>
+<p>One of the long-term goals of bots is to increasingly mimic the speech and mannerisms of humans. Ironically, the closer they get to this goal, the more necessary it becomes to distinguish between what is and is not human. <a href="https://qz.com/1409350/a-new-law-means-californias-bots-have-to-disclose-theyre-not-human/">California</a> caught on quickly after the 2016 election <a href="https://techcrunch.com/2018/11/05/midterm-elections-battle-bots/">scandal</a>. In passing the nation’s first bot disclosure regulation, California <a href="https://www.lexology.com/library/detail.aspx?g=6f1f4d3d-48ad-4fcb-bb0e-e4621e87c2c8">requires</a> bots to clearly and conspicuously identify themselves as bots if engaging with a person in California to influence a purchase or a vote. Fines for violations can reach $2,500 <em>per violation</em>, which sounds like a decent enough deterrent … if the bot-deployer is known.</p>
+<p>There are several steps a company can take to avoid the harmful effects of rogue bots. For starters, companies should explore <a href="https://www.expertguides.com/articles/beware-of-the-legal-risks-surrounding-the-rise-of-chatbots/ARTWUSIC">censoring mechanisms</a>. Anticipating that bots may pick up some unintended language, companies should test and review them with random conversations before launch. Rogue chatbots may cause liability for abusive responses to users besides negative reputational consequences for companies. These risks should be addressed by a company’s risk and crisis management systems to ensure they can prevent and quickly extinguish these fires. Appointment of a Data Ethics and Privacy Officer may help streamline some of these precautions.</p>
+<p>Companies may also want to <a href="https://www.artificialintelligence-news.com/2019/02/06/microsoft-ai-result-reputational-harm/">warn</a> investors of the reputational harm that can result from artificial intelligence technology. A bot’s interactions and reactions can be difficult to predict, especially as it gains exposure to more language. Companies that sufficiently explain the risks of this technology to investors may avoid subsequent liability.</p>
+<p>Transparency with users is key. Not only does California’s bot law—<a href="https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180SB1001">effective</a> July 1, 2019—require disclosure of a bot’s nonhuman status in certain circumstances, but transparency with users regarding where the information comes from may also help avoid liability. For instance, for a chatbot that books flights, it may be necessary to have a disclaimer informing the user of her responsibility to verify the booking because the bot relies on computer-generated information.</p>
+<p>Much as with humans, it’s important to exercise caution when relying on bots. Unlike human resources, this is especially important given the multitude of <a href="https://www.socialmedialawbulletin.com/2017/06/chatbots-legal-issues/">unresolved legal questions</a> surrounding their liability and California’s new bot law. The goal is not to avoid bots altogether—as with most technologies, the long-term benefits may far outweigh the risks. But failure to acknowledge and plan for those risks can harm a company’s reputation and force it into court to defend a range of legal claims for which there is meager precedent and, as yet, no bots ready-made to defend against.</p>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-print"><a rel="nofollow noopener noreferrer" data-shared="" class="share-print sd-button no-icon" href="https://www.internetandtechnologylaw.com/chat-bot-legal-issues/#print" target="_blank" title="Click to print"><span>Print</span></a></li><li class="share-end"></li></ul></div></div></div>							</div>
+					</div>
+		<footer>
+							<div class="author vcard">by <span itemprop="author" itemtype="http://schema.org/Person" itemscope><a href="https://www.pillsburylaw.com/en/lawyers/ashlee-hamilton.html" class="url fn author-ashleehamilton author-2771 post-author-link" rel="author" target="_blank" itemprop="url"><span itemprop="name">Ashlee Hamilton</span></a></span></div>						<div itemprop="publisher" itemtype="http://schema.org/Organization" itemscope>
+				<meta itemprop="name" content="Pillsbury Winthrop Shaw Pittman LLP" />
+				
+<div itemprop="logo" itemtype="http://schema.org/ImageObject" itemscope>
+	<link itemprop="url" href="https://www.internetandtechnologylaw.com/files/2019/08/PillsburyLogo.png" />
+	<meta itemprop="height" content="60" />
+	<meta itemprop="width" content="110" />
+	<meta itemprop="representativeOfPage" content="http://schema.org/True" />
+</div>
+			</div>
+
+			<div class="category-list"><span class="category-list-label">Posted in:</span> <span class="category-list-items"><a href="https://www.internetandtechnologylaw.com/category/algorithms/" title="View all posts in Algorithms" class="category-algorithms term-450 post-category-link">Algorithms</a>, <a href="https://www.internetandtechnologylaw.com/category/artificial-intelligence/" title="View all posts in Artificial Intelligence" class="category-artificial-intelligence term-472 post-category-link">Artificial Intelligence</a>, <a href="https://www.internetandtechnologylaw.com/category/child-protection/" title="View all posts in Child Protection" class="category-child-protection term-233 post-category-link">Child Protection</a>, <a href="https://www.internetandtechnologylaw.com/category/defamation/" title="View all posts in Defamation" class="category-defamation term-486 post-category-link">Defamation</a>, <a href="https://www.internetandtechnologylaw.com/category/internet-of-things/" title="View all posts in Internet of Things (IoT)" class="category-internet-of-things term-339 post-category-link">Internet of Things (IoT)</a> and <a href="https://www.internetandtechnologylaw.com/category/privacy/" title="View all posts in Privacy" class="category-privacy term-231 post-category-link">Privacy</a></span></div><div class="tag-list"><span class="tag-list-label">Tagged:</span> <span class="tag-list-items"><a href="https://www.internetandtechnologylaw.com/tag/alexis/" title="View all posts tagged with Alexis" class="tag-alexis term-651 post-tag-link">Alexis</a>, <a href="https://www.internetandtechnologylaw.com/tag/bots/" title="View all posts tagged with bots" class="tag-bots term-383 post-tag-link">bots</a> and <a href="https://www.internetandtechnologylaw.com/tag/chatbots/" title="View all posts tagged with chatbots" class="tag-chatbots term-652 post-tag-link">chatbots</a></span></div>			
+			<div class="published-date"><span class="published-date-label">Posted</span> <time datetime="2019-06-25T08:26:39-04:00" class="post-date published" itemprop="datePublished" pubdate>June 25, 2019</time></div>			<div class="visuallyhidden">Updated:
+				<time datetime="2019-06-19T18:43:32-04:00" class="updated" itemprop="dateModified">June 19, 2019 6:43 pm</time>
+			</div>
+
+			
+			
+			
+			
+<!-- You can start editing here. -->
+
+
+			<!-- If comments are closed. -->
+		<p class="nocomments">Comments are closed.</p>
+
+	
+
+		</footer>
+
+	</div>
+</article>
+	<div class="navigation">
+		<nav id="post-pagination-bottom" class="pagination post-pagination" role="navigation">
+		<span class="nav-prev"><a rel="prev" href="https://www.internetandtechnologylaw.com/uk-privacy-adtech/" title="UK Privacy Regulator Takes Aim at the AdTech Industry"><span class="arrow-left">&laquo;</span> Previous</a></span> <span class="nav-sep">|</span> <span class="nav-home"><a rel="home" href="https://www.internetandtechnologylaw.com/">Home</a></span> <span class="nav-sep">|</span> <span class="nav-next"><a rel="next" href="https://www.internetandtechnologylaw.com/biggest-legal-issues-blockchain-technology-providers/" title="The Three Biggest (Non-IP) Legal Issues Faced by Blockchain-Based Platform Technology Providers">Next <span class="arrow-right">&raquo;</span></a></span>				</nav>
+	</div>
+								</div>
+
+																<aside class="sidebar primary-sidebar sc-2 secondary-content" id="sc-2">
+			</aside>
+
+							
+						</section>
+
+						<aside class="sidebar secondary-sidebar sc-1 secondary-content" id="sc-1">
+	<div id="custom_html-3" class="widget_text widget sidebar-widget primary-sidebar-widget widget_custom_html"><strong class="widget-title sidebar-widget-title primary-sidebar-widget-title">Search</strong><div class="content widget-content sidebar-widget-content primary-sidebar-widget-content"><div class="textwidget custom-html-widget"><form action="/" class="searchform" id="searchform" method="get" role="search"><div><label class="visuallyhidden" for="sWidget">Search here</label><input type="text" id="sWidget" name="s" value="" placeholder="Enter Text"/><button type="submit" value="Search" id="searchsubmit">Search</button></div></form></div></div></div><div id="custom_html-4" class="widget_text widget sidebar-widget primary-sidebar-widget widget_custom_html"><strong class="widget-title sidebar-widget-title primary-sidebar-widget-title">Subscribe</strong><div class="content widget-content sidebar-widget-content primary-sidebar-widget-content"><div class="textwidget custom-html-widget"><div class="wrapper"> <a onclick="window.open('https://feedburner.google.com/fb/a/mailverify?uri=SocialMediaAndGamesLawBlogCom', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true" target="popupwindow" class="email" href="https://feedburner.google.com/fb/a/mailverify?uri=SocialMediaAndGamesLawBlogCom" rel="noopener"><span>Email</span></a> <a class="rss" target="_blank" href="http://rss.justia.com/SocialMediaAndGamesLawBlogCom" rel="noopener"><span>RSS</span></a> </div></div></div></div><div id="jwpw_connect-2" class="widget sidebar-widget primary-sidebar-widget jwpw_connect">
+    <strong class="widget-title sidebar-widget-title primary-sidebar-widget-title"></strong><div class="content widget-content sidebar-widget-content primary-sidebar-widget-content">
+    
+        <p class="connect-icons">
+            <a href="https://twitter.com/InternetTechLaw" target="_blank" title="Twitter"><img src="https://lawyers.justia.com/s/twitter-flat-64.png" alt="Twitter Icon" border="0" /></a><a href="https://www.linkedin.com/company/pillsbury-winthrop-shaw-pittman-llp?trk=hb_tab_compy_id_165471" target="_blank" title="LinkedIn"><img src="https://lawyers.justia.com/s/linkedin-flat-64.png" alt="LinkedIn Icon" border="0" /></a>
+        </p>
+        <script type="application/ld+json">
+{ "@context": "http://schema.org",
+  "@type": "http://schema.org/LegalService",
+  "name": "Pillsbury Winthrop Shaw Pittman LLP",
+  "image": "https://www.internetandtechnologylaw.com/files/2019/08/PillsburyLogo.png",
+  "sameAs": ["https://twitter.com/InternetTechLaw","https://www.linkedin.com/company/pillsbury-winthrop-shaw-pittman-llp?trk=hb_tab_compy_id_165471"]   
+}
+</script>
+        
+</div></div>
+<div id="custom_html-5" class="widget_text widget sidebar-widget primary-sidebar-widget widget_custom_html"><strong class="widget-title sidebar-widget-title primary-sidebar-widget-title">Resources</strong><div class="content widget-content sidebar-widget-content primary-sidebar-widget-content"><div class="textwidget custom-html-widget"><a target="_blank" href="https://www.ptabhandbook.com/" rel="noopener"><em>The PTAB Handbook</em></a></div></div></div><div id="j_categories-2" class="widget sidebar-widget primary-sidebar-widget j_categories"><strong class="widget-title sidebar-widget-title primary-sidebar-widget-title">Topics</strong><div class="content widget-content sidebar-widget-content primary-sidebar-widget-content"><ul>
+    <li class="cat-item cat-item-0"><a href="https://www.internetandtechnologylaw.com/category/privacy/">Privacy <span>(100)</span></a></li>
+    <li class="cat-item cat-item-1"><a href="https://www.internetandtechnologylaw.com/category/virtual-currency/">Virtual Currency <span>(73)</span></a></li>
+    <li class="cat-item cat-item-2"><a href="https://www.internetandtechnologylaw.com/category/copyright/">Copyright <span>(57)</span></a></li>
+    <li class="cat-item cat-item-3"><a href="https://www.internetandtechnologylaw.com/category/video-games/">Video Games <span>(50)</span></a></li>
+    <li class="cat-item cat-item-4"><a href="https://www.internetandtechnologylaw.com/category/patents/">Patents <span>(45)</span></a></li>
+    <li class="cat-item cat-item-5"><a href="https://www.internetandtechnologylaw.com/category/augmented-reality/">Augmented Reality <span>(41)</span></a></li>
+    <li class="cat-item cat-item-6"><a href="https://www.internetandtechnologylaw.com/category/social-media-policies/">Social Media Policies <span>(40)</span></a></li>
+    <li class="cat-item cat-item-7"><a href="https://www.internetandtechnologylaw.com/category/artificial-intelligence/">Artificial Intelligence <span>(40)</span></a></li>
+    <li class="cat-item cat-item-8"><a href="https://www.internetandtechnologylaw.com/category/terms-of-service/">Terms of Service <span>(40)</span></a></li>
+    <li class="cat-item cat-item-9"><a href="https://www.internetandtechnologylaw.com/category/advertising/">Advertising <span>(38)</span></a></li>
+    <span class="more-categories-link"><a href="/topics/">View More Topics</a></span></ul></div></div></aside>
+
+					</div>
+				</div>
+
+
+							<!-- FOOTER -->
+				<footer id="footer">
+					<span class="visuallyhidden">Contact Information</span>
+					<div class="fcontainer">
+
+													<div id="address">
+								<div id="willow_address-2" class="address_container address-block-widget willow_address">	<div itemtype="http://schema.org/LegalService" class="slocation " itemscope>
+		
+        <link itemprop="logo" href="https://www.internetandtechnologylaw.com/files/2019/08/PillsburyLogo.png">
+        <link itemprop="image" href="https://www.internetandtechnologylaw.com/files/2019/08/PillsburyLogo.png">
+        <link itemprop="url" href="https://www.internetandtechnologylaw.com">
+        <meta itemprop="name" content="Pillsbury Winthrop Shaw Pittman LLP">
+		
+        <div itemprop="address" itemtype="http://schema.org/PostalAddress" itemscope>
+            <div itemprop="streetAddress">725 S Figueroa St #2800</div>
+            <span itemprop="addressLocality">Los Angeles</span>,
+            <span itemprop="addressRegion">CA</span>
+            <span itemprop="postalCode">90017</span>
+        </div>
+		<span class="contacts"><span>Phone: <span itemprop="telephone">213.488.7100</span></span></span>
+		
+		
+	</div></div>							</div>
+						
+						
+						<nav id="footernav">
+							<div id="footernav-wrapper" class="footernav nav-custom"><ul id="menu-footernav" class="menu"><li id="menu-item-31" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-31"><a target="_blank" rel="noopener" href="https://www.pillsburylaw.com/en/">Main Site</a></li>
+<li id="menu-item-32" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-32"><a target="_blank" rel="noopener" href="https://www.pillsburylaw.com/en/terms-of-use.html">Terms of Use</a></li>
+<li id="menu-item-3536" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3536"><a target="_blank" rel="noopener" href="https://www.pillsburylaw.com/en/privacy-policy.html">Privacy Policy</a></li>
+<li id="menu-item-34" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34"><a target="_blank" rel="noopener" href="https://www.pillsburylaw.com/en/cookie-policy.html">Cookie Policy</a></li>
+<li id="menu-item-35" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-35"><a target="_blank" rel="noopener" href="https://www.internetandtechnologylaw.com/archives/">Blog Posts</a></li>
+<li id="menu-item-3537" class="adv menu-item menu-item-type-custom menu-item-object-custom menu-item-3537"><a target="_blank" rel="noopener" href="https://www.pillsburylaw.com/en/attorney-advertising.html">Attorney Advertising</a></li>
+</ul></div>						</nav>
+												<div class="copyright" title="Copyright &copy; 2021 Pillsbury Winthrop Shaw Pittman LLP"><div class="jfdisclaimer-text"><p>Please do not include any confidential or sensitive information in a contact form, text message, or voicemail. The contact form sends information by non-encrypted email, which is not secure. Submitting a contact form, sending a text message, making a phone call, or leaving a voicemail does not create an attorney-client relationship.</p></div><style>.jfdisclaimer-text { margin: 1.8em 0; }</style><span class="copyright_label">Copyright &copy;</span> <span class="copyright_year">2021</span>, <a href="https://www.pillsburylaw.com/">Pillsbury Winthrop Shaw Pittman LLP</a></div>
+																		<div class="credits"><a target="_blank" href="https://www.justia.com/marketing/law-blogs/"><strong class="justia_brand">JUSTIA</strong> Law Firm Blog Design</a></div>
+												<span class="all-rights block"><span>All Rights Reserved.</span></span>					</div>
+				</footer>
+						</div> <!-- /.cwrap -->
+		</div><!-- /.container -->
+		<!--[if lt IE 9]>
+			<script src="/jshared/jslibs/responsive/mediaqueries/css3-mediaqueries.1.0.2.min.js"></script>
+		<![endif]-->
+		<script type="text/javascript"> if(!('matchMedia' in window)){ document.write(unescape("%3Cscript src='/jshared/jslibs/responsive/mediaqueries/media.match.2.0.2.min.js' type='text/javascript'%3E%3C/script%3E")); } </script>
+		<script type='text/javascript' src='https://www.internetandtechnologylaw.com/wp-content/plugins/jWP-Widgets/js/jwp-placeholder-fallback.js?ver=e51ad18d30a9048cae906d606287d77f' id='jwp-placeholder-fallback-js'></script>
+<script type='text/javascript' src='https://www.internetandtechnologylaw.com/wp-content/plugins/jWP-Widgets/js/jwp-forms.js?ver=e51ad18d30a9048cae906d606287d77f' id='jwp-forms-js'></script>
+<script type='text/javascript' src='https://www.internetandtechnologylaw.com/jshared/jslibs/validate/parsley.min.js?ver=e51ad18d30a9048cae906d606287d77f' id='parsley-js'></script>
+<script type='text/javascript' src='https://www.internetandtechnologylaw.com/jshared/jslibs/responsive/enquire/enquire.2.0.2.min.js?ver=2.0.2' id='enquire-js'></script>
+<script type='text/javascript' src='https://www.internetandtechnologylaw.com/jresources/v/20210616033332/js/site.min.js' id='willow_site.min-js'></script>
+<script type='text/javascript' src='https://www.internetandtechnologylaw.com/wp-includes/js/wp-embed.min.js?ver=e51ad18d30a9048cae906d606287d77f' id='wp-embed-js'></script>
+<script type='text/javascript' id='sharing-js-js-extra'>
+/* <![CDATA[ */
+var sharing_js_options = {"lang":"en","counts":"1","is_stats_active":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.internetandtechnologylaw.com/wp-content/plugins/jetpack/_inc/build/sharedaddy/sharing.min.js?ver=9.6.1' id='sharing-js-js'></script>
+<script type="text/javascript" src="//us1.siteimprove.com/js/siteanalyze_61281933.js">//</script>
+<!-- Start of Async HubSpot Analytics Code -->
+    <script type="text/javascript">
+        (function(d,s,i,r) {
+            if (d.getElementById(i)){return;}
+            var n=d.createElement(s),e=d.getElementsByTagName(s)[0];
+            n.id=i;n.src='//js.hubspot.com/analytics/'+(Math.ceil(new Date()/r)*r)+'/47425.js';
+            e.parentNode.insertBefore(n, e);
+        })(document,"script","hs-analytics",300000);
+    </script>
+<!-- End of Async HubSpot Analytics Code -->
+
+<script type="text/javascript">
+/*<![CDATA[*/
+	(function() {
+		var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+		sz.src = '//siteimproveanalytics.com/js/siteanalyze_61281933.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+	})();
+/*]]>*/
+</script>
+
+<!-- GDPR cookie - Cookie Control JS -->
+<script src="https://www.internetandtechnologylaw.com/jresources/v/20210621171935/cookieControl.js"></script>
+
+
+	</body>
+</html>
+
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Page Caching using disk: enhanced 
+
+Served from: www.internetandtechnologylaw.com @ 2021-06-22 22:42:28 by W3 Total Cache
+-->
