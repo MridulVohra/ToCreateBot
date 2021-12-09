@@ -8,13 +8,13 @@ data = eadata[0]
 for i in eadata[1:10]:
     data=data+'\n'+i
 
-account_sid = 'ACeb0fbcf51463eb624079dd7c1dd0d64f'
-auth_token = 'b8095eacc65e7db8c5a2c46f9e89ae5a'
+account_sid = '-'
+auth_token = '-'
 client = Client(account_sid, auth_token)
 
 message = client.messages.create(
                               body=data,
-                              from_='+16146420071',
-                              to='+919871067866'
+                              from_='-',
+                              to='-'
                           )
 print(message.sid)
